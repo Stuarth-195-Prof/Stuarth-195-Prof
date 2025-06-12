@@ -1,6 +1,8 @@
 ## 🖥️Hi Im Stuarth 🖥️
 
+https://img.shields.io/badge/:badgeContent?style=plastic&logo=file%3A%2F%2F%2FC%3A%2FUsers%2Fshoko%2FDownloads%2Fimagen_2025-06-12_130236229.ico&logoColor=blue&label=Discord
 <!--
+
 **Stuarth-195-Prof/Stuarth-195-Prof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
