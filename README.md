@@ -16,7 +16,6 @@ Mi enfoque va más allá de solo escribir código; me interesa cómo el hardware
 * Desarrollar proyectos que integren la electrónica con la programación.
 * Profundizar en arquitecturas backend modernas.
 * Compartir mis aprendizajes y avances a través de GitHub.
-* Claro, aquí tienes tu sección traducida al inglés de forma profesional y natural para tu README:
 
 ---
 
