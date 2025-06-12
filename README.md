@@ -1,4 +1,3 @@
-## 🖥️ Hi, I'm Stuarth 🖥️
 <img src="assets/banner.png" alt="Banner Stuarth" style="width:100%;"/>
 
 
@@ -17,3 +16,20 @@ Mi enfoque va más allá de solo escribir código; me interesa cómo el hardware
 * Desarrollar proyectos que integren la electrónica con la programación.
 * Profundizar en arquitecturas backend modernas.
 * Compartir mis aprendizajes y avances a través de GitHub.
+* Claro, aquí tienes tu sección traducida al inglés de forma profesional y natural para tu README:
+
+---
+
+### 👋 About Me
+
+Hi! I'm Stuarth, a student of **Computer Engineering** at the **Tecnológico de Costa Rica (TEC)**.
+I'm passionate about **electronic circuits** and **backend development**, two areas where I aim to specialize and grow professionally.
+
+My approach goes beyond just writing code — I'm interested in how hardware and software come together to create real-world solutions. That’s why I combine my studies in electronics with programming projects, especially in backend development, where I enjoy designing robust, efficient, and well-structured systems.
+
+### 🚀 Goals
+
+* Build projects that integrate electronics and software.
+* Deepen my knowledge in modern backend architectures.
+* Share my learning journey and progress through GitHub.
+
